@@ -4,6 +4,7 @@
 
 ## Backend
 
+
 Файл `backend/app.js` предоставляет эндпоинт `/api/review`, который получает отдельный тест-кейс и возвращает результат анализа GigaChat.
 
 Запуск:
@@ -11,7 +12,6 @@
 ```bash
 npm install
 node backend/app.js
-```
 
 ## Frontend
 
