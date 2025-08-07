@@ -4,14 +4,14 @@
 
 ## Backend
 
-Файл `backend/app.py` предоставляет эндпоинт `/api/review`, который получает отдельный тест-кейс и возвращает результат анализа GigaChat.
+
+Файл `backend/app.js` предоставляет эндпоинт `/api/review`, который получает отдельный тест-кейс и возвращает результат анализа GigaChat.
 
 Запуск:
 
 ```bash
-pip install -r requirements.txt
-python backend/app.py
-```
+npm install
+node backend/app.js
 
 ## Frontend
 
